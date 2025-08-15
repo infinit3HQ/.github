@@ -8,6 +8,8 @@ Welcome to our corner of GitHub! We're dedicated to building intuitive and effec
 
 **KotobaMichi** (言葉道), which translates to the "Path of Words," is a comprehensive platform designed to help users master the Japanese language. Our application is built with a modern architecture, separating the user interface from the core logic to ensure a smooth and responsive experience.
 
+**Live Web:** [**kotobamichi.012140.xyz**](https://kotobamichi.012140.xyz/)
+
 ### 🎨 KotobaMichi-Frontend
 
 This is the face of KotobaMichi! It's the interactive and user-friendly interface where you'll engage with lessons, practice vocabulary, and track your learning progress. We are focused on creating a seamless and beautiful environment to keep you motivated on your language journey.
