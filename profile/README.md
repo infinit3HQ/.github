@@ -1,37 +1,36 @@
-# Welcome to infinit3HQ! 👋
+# infinit3HQ 👋
 
-Welcome to our corner of GitHub! We're dedicated to building intuitive and effective applications. Our current focus is on making language learning a more engaging and accessible experience.
-
----
-
-## Featured Project: KotobaMichi 🇯🇵
-
-**KotobaMichi** (言葉道), which translates to the "Path of Words," is a comprehensive platform designed to help users master the Japanese language. Our application is built with a modern architecture, separating the user interface from the core logic to ensure a smooth and responsive experience.
-
-**Live Web:** [**kotobamichi.012140.xyz**](https://kotobamichi.012140.xyz/)
-
-### 🎨 KotobaMichi-Frontend
-
-This is the face of KotobaMichi! It's the interactive and user-friendly interface where you'll engage with lessons, practice vocabulary, and track your learning progress. We are focused on creating a seamless and beautiful environment to keep you motivated on your language journey.
-
-* **Repository:** [**infinit3HQ/KotobaMichi-Frontend**](https://github.com/infinit3HQ/KotobaMichi-Frontend)
-
-### ⚙️ KotobaMichi-Backend
-
-This is the engine under the hood. The backend powers KotobaMichi by managing all user accounts, lesson content, progress tracking, and the API that the frontend communicates with. It's built to be robust, secure, and scalable.
-
-* **Repository:** [**infinit3HQ/KotobaMichi-Backend**](https://github.com/infinit3HQ/KotobaMichi-Backend)
+We build open-source tools and apps — from developer utilities to creative side projects. If it's useful, fun, or both, we're probably building it.
 
 ---
 
-## 🤝 Contributing
+## Projects
 
-We welcome contributions from the community! Whether you're interested in fixing a bug, adding a new feature to the frontend, or optimizing the backend, your help is appreciated.
+### 💰 [DevCents](https://github.com/infinit3HQ/DevCents)
+Self-hosted, privacy-first money management. Smart, beautiful financial tracking you actually own.
+`TypeScript`
 
-To get started, please visit the individual repositories and check out their `README.md` and contribution guidelines.
+### 🎌 [aniledger](https://github.com/infinit3HQ/aniledger)
+Native macOS anime tracker built with SwiftUI. Syncs with AniList, works offline, and looks great doing it.
+`Swift` `SwiftUI` `macOS`
+
+### 🇯🇵 KotobaMichi
+A full-stack Japanese language learning platform — "The Path of Words."
+- [Frontend](https://github.com/infinit3HQ/KotobaMichi-Frontend) · [Backend](https://github.com/infinit3HQ/KotobaMichi-Backend)
+- **Live:** [kotobamichi.012140.xyz](https://kotobamichi.012140.xyz/)
+
+`TypeScript`
+
+### 🔐 [ollama-guard](https://github.com/infinit3HQ/ollama-guard)
+Lightweight auth proxy for Ollama. API key or JWT auth, audience/issuer validation, streaming passthrough.
+`Python` `FastAPI`
 
 ---
 
-## 📫 Get in Touch
+## Contributing
 
-Have questions, ideas, or just want to say hi? Feel free to open an issue in the relevant repository. We look forward to building a great learning tool with the community!
+All our repos are open to contributions. Pick one that interests you, check the README, and jump in.
+
+## Get in Touch
+
+Open an issue in any repo, or just say hi — we're friendly.
