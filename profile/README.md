@@ -14,12 +14,12 @@ Self-hosted, privacy-first money management. Smart, beautiful financial tracking
 Native macOS anime tracker built with SwiftUI. Syncs with AniList, works offline, and looks great doing it.
 `Swift` `SwiftUI` `macOS`
 
-### 🇯🇵 KotobaMichi
-A full-stack Japanese language learning platform — "The Path of Words."
-- [Frontend](https://github.com/infinit3HQ/KotobaMichi-Frontend) · [Backend](https://github.com/infinit3HQ/KotobaMichi-Backend)
+### 🇯🇵 [KotobaMichi](https://github.com/infinit3HQ/KotobaMichi)
+A full-stack Japanese language learning platform — "The Path of Words." Interactive Practice Dojo, Web Speech audio, spaced repetition flashcards, and kana mastery.
+- **Repository:** [infinit3HQ/KotobaMichi](https://github.com/infinit3HQ/KotobaMichi) (Unified Monorepo)
 - **Live:** [kotobamichi.012140.xyz](https://kotobamichi.012140.xyz/)
 
-`TypeScript`
+`Next.js 15` `NestJS` `TypeScript` `Docker` `PostgreSQL`
 
 ### 🔐 [ollama-guard](https://github.com/infinit3HQ/ollama-guard)
 Lightweight auth proxy for Ollama. API key or JWT auth, audience/issuer validation, streaming passthrough.
