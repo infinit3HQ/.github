@@ -6,6 +6,13 @@ We build open-source tools and apps — from developer utilities to creative sid
 
 ## Projects
 
+### 🖥️ [Easy Sys Admin](https://github.com/infinit3HQ/easy-sys-admin)
+One board for a fleet of Linux servers. Live status every minute, scheduled disk cleanups, and package patching in batches that stop when too many servers fail. Nothing listens on your servers: the control plane connects over SSH as a restricted user, or an outbound agent calls home over HTTPS for servers behind NAT. Organizations, teams and groups shared between organizations, alerts to Slack, Discord, ntfy, webhooks or email, plus a CLI and an MCP endpoint so AI agents can read status and start runs.
+- **Live:** [easysysadmin.app](https://easysysadmin.app/)
+- **Self-host:** free for any use under AGPL-3.0, with Docker Compose and published images
+
+`Go` `TypeScript` `TanStack Start` `PostgreSQL` `Docker` `MCP`
+
 ### 💰 [DevCents](https://github.com/infinit3HQ/DevCents)
 Self-hosted, privacy-first money management. Smart, beautiful financial tracking you actually own.
 `TypeScript`
